@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Shristi 👋</h1>
 
-<!--
-**SHRII2007/SHRII2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B983FF&center=true&vCenter=true&width=500&lines=S.Y.B.Sc+IT+Student;C+%7C+C%2B%2B+%7C+HTML+%7C+JavaScript;DBMS+%7C+PL%2FSQL+%7C+Python+%7C+PHP+%7C+Angular;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-B983FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Skills
+C, C++, HTML, JavaScript, DBMS, PL/SQL, Python, PHP & Angular
+
+### 🌱 Currently learning
+Python, PHP, Angular & Applied Mathematics — S.Y.B.Sc IT student exploring web development and problem solving.
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHRII2007&show_icons=true&theme=radical" />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHRII2007&theme=radical" />
+</p>
+
+### 📫 Reach me
+- 📧 shristip1007@gmail.com
