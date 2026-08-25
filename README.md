@@ -32,7 +32,7 @@
 
 ### 🙋‍♀️ About Me
 - 🎓 S.Y.B.Sc IT student
-- 🎤 Love organizing college events — helped run **Youth Skill Day**
+- 🎤 Love organizing events 
 - 💜 Interested in content around women's empowerment
 - 🌱 Currently exploring web development and problem solving
 
