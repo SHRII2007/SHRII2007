@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shristi 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B983FF&height=200&section=header&text=Hi%20There,%20I'm%20Shristi%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B983FF&center=true&vCenter=true&width=500&lines=S.Y.B.Sc+IT+Student;C+%7C+C%2B%2B+%7C+HTML+%7C+JavaScript;DBMS+%7C+PL%2FSQL+%7C+Python+%7C+PHP+%7C+Angular;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
@@ -16,11 +16,10 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
-### 💡 Skills
-C, C++, HTML, JavaScript, DBMS, PL/SQL, Python, PHP & Angular
-
-### 🌱 Currently learning
-Python, PHP, Angular & Applied Mathematics — S.Y.B.Sc IT student exploring web development and problem solving.
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHRII2007&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ### 📊 My GitHub Stats
 <p align="center">
@@ -31,6 +30,8 @@ Python, PHP, Angular & Applied Mathematics — S.Y.B.Sc IT student exploring web
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHRII2007&theme=radical" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B983FF&height=100&section=footer" />
 
 ### 📫 Reach me
 - 📧 shristip1007@gmail.com
