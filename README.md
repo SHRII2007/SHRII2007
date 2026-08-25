@@ -26,12 +26,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SHRII2007&show_icons=true&theme=radical" />
 </p>
 
-### 🔥 Streak Stats
+### 🙋‍♀️ About Me
+- 🎓 S.Y.B.Sc IT student
+- 🎤 Love organizing college events — helped run **Youth Skill Day**
+- 💜 Interested in content around women's empowerment
+- 🌱 Currently exploring web development and problem solving
+
+### 🌐 Find me on
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHRII2007&theme=radical" />
+  <a href="https://www.linkedin.com/in/shristi-pandey-51b9923a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/shriisti.co" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B983FF&height=100&section=footer" />
 
 ### 📫 Reach me
 - 📧 shristip1007@gmail.com
+- 
